@@ -90,6 +90,7 @@ nav li:last-child {
   background: url("	https://content.codecademy.com/courses/freelance-1/unit-6/banner.png") center center no-repeat;
   background-size: cover;
   text-align: center;
+  top: -87px !important;
 }
 
 #banner:before { /* Orange Overlay */
