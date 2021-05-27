@@ -86,7 +86,6 @@ nav li:last-child {
 #banner {
   position: relative;
   height: 43.75rem;
-  margin-top:40%
   padding: 0 25%;
   background: url("	https://content.codecademy.com/courses/freelance-1/unit-6/banner.png") center center no-repeat;
   background-size: cover;
@@ -496,3 +495,4 @@ footer .button {
     padding: 4.8125rem 15% 0 15%;
   }
 }
+
